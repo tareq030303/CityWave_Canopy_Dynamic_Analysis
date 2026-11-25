@@ -2,7 +2,7 @@
 
 Experimental Modal Analysis (EMA) and Finite Element Model (FEM) validation of a scaled wind-tunnel model of the **CityWave Canopy** structure (CityLife district, Milan).
 
-* **Institution:** Politecnico di Milano — School of Industrial and Information Engineering
+* **Institution:** Politecnico di Milano 
 * **Program:** M.Sc. in Mechanical Engineering (Mechatronics and Robotics)
 * **Academic Year:** 2025/2026
 * **Authors:** Caterina Brunetti, Alessia Cecchini, Federico Della Vittoria, Tareq El Kajjyouy
